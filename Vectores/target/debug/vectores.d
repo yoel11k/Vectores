@@ -1,0 +1,1 @@
+C:\Users\lenovo\OneDrive\UAGRM\PROGRAM\ 1\Git\ del\ ing\Programacion1-SC-2-2026\Vectores\target\debug\vectores.exe: C:\Users\lenovo\OneDrive\UAGRM\PROGRAM\ 1\Git\ del\ ing\Programacion1-SC-2-2026\Vectores\src\main.rs
